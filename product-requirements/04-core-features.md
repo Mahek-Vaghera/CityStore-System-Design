@@ -1,48 +1,62 @@
 ## Core Features
 
-### Store Discovery
+### Business Verification
 
-#### Shop Management
-- Browse stores
-- Search stores
-- Filter by category
-- Filter by location
+- Document submission
+- Admin approval
+- Business verification
 
 ---
 
-## Product Catalog
-- Product listings
-- Product search
-- Product comparison
+### Modular Dashboard
+
+Business owners receive dashboards based on assigned modules.
 
 ---
 
-## Service Listings
+### Product Module
 
-- Service catalogs
-- Service information
-- Service pricing
-
----
-
-## Appointment Booking
-- Book appointments
-- Manage appointments
+- Product management
+- Inventory management
+- Order management
 
 ---
 
-## Communication
-- Contact stores owners
-- Send inquiries
+### Service Module
+
+- Service management
+- Appointment booking
 
 ---
 
-## Promotions
+### Package Module
+
+- Package management
+- Inquiry management
+
+---
+
+### Restaurant Module
+
+- Menu management
+- Table booking
+- Food ordering
+
+---
+
+### Shared Modules
+
 - Stories
-- Offers
 - Advertisements
+- Achievements
+- Business Profile
 
 ---
 
-## Optional Ordering
-stores may enable online ordering and self-managed delivery.
+### Customer Features
+
+- Business discovery
+- Product comparison
+- Service comparison
+- Appointment booking
+- Inquiry submission
