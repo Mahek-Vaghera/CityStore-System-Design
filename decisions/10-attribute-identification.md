@@ -166,6 +166,7 @@ Attributes:
 * description
 * logo_url
 * cover_image_url
+* branch_name
 * category_id
 * created_by_user_id
 * primary_phone_number
